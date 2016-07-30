@@ -1,2 +1,2 @@
-# Oracle-slice
-Oracle recipes on demand......??
+# Oracle-recipes
+Oracle recipes slice on demand......??
